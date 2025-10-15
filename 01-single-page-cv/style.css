@@ -1,0 +1,33 @@
+body {
+  font-family: "Inter", sans-serif;
+  margin: 20px;
+}
+
+#d1 {
+  max-width: 90%;
+  border: 3px solid black;
+  width: 60%;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 5px 5px gray;
+}
+
+hr {
+  border: none;
+  border-top: 3px solid #293c;
+  margin: 20px 0;
+  width: 70%;
+}
+
+h3 {
+  margin-top: 40px;
+  color: #125800;
+}
+
+.p-enfase {
+  margin: 10px 0;
+  color: #1848b1;
+  font-size: 1.2em;
+  font-weight: 500;
+}
